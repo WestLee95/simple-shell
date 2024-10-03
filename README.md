@@ -1,5 +1,3 @@
-Here’s a more polished and detailed `README.md` for your shell project. I've included sections that explain the project, how to build and run it, features, and example usage.
-
 ---
 
 # Shell Project
